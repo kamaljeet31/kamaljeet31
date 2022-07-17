@@ -39,9 +39,9 @@ I'm Kamaljeet Singh a creative and driven Web Developer with a positive attitude
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   2 hrs 15 mins   █████████████████████▓░░░   86.28 %
-JSON         15 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.12 %
-Bash         5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
+JavaScript   2 hrs 43 mins   ████████████████████████▓   99.21 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 ```
 
 <!--END_SECTION:waka-->
